@@ -17,9 +17,11 @@
 <h3 align="center">⚡ Next-Gen Lua Execution Environment | 🛠️ Developer-First Design</h3>
 
 <div align="center">
-  <img src="https://github.com/LExteamz/LInjector/assets/98148217/ec726092-c282-4570-80dd-d7e061215cb0" width="45%">
-  <img src="https://github.com/LExteamz/LInjector/assets/147359654/a32c944e-5240-4d35-bfeb-786e4918860a" width="45%">
+  <img src="https://github.com/user-attachments/assets/af483103-8cc1-4e94-9999-711401199f7d" width="45%">
+  <img src="https://github.com/user-attachments/assets/c8ee8e1b-18c5-4c00-aaae-980f42800cd7" width="45%">
 </div>
+
+
 
 ## 🌟 Features That Shine
 - 🔓 **100% Open Source** - Full transparency with MIT License
