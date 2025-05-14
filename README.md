@@ -6,9 +6,6 @@
   <a href="https://discord.gg/t8WMq5JKaK">
     <img src="https://dcbadge.vercel.app/api/server/NQY28YSVAb?style=flat">
   </a>
-  <a href="https://github.com/LExteamz/LInjector/releases">
-    <img src="https://img.shields.io/github/v/release/LExteamz/LInjector?color=success&label=version">
-  </a>
   <a href="https://github.com/LExteamz/LInjector/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/LExteamz/LInjector?color=blue">
   </a>
