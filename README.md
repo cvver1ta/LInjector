@@ -47,3 +47,14 @@ public class ScriptExecutor
         }
     }
 }
+```
+
+## 🌐 Ecosystem Integration
+- 🔗 Krnl API - Core execution environment
+
+- 📜 MastersMZ Scripts - Script repository
+
+- 🎮 Roblox UNC Patches - Game compatibility layer
+
+## 🤝 Contributing
+- We welcome contributions! Please see our contribution guidelines and join our Discord community for discussion.
